@@ -76,6 +76,4 @@ M.messages = function(opts)
     :find()
 end
 
-M.messages()
-
 return M
