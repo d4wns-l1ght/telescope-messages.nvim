@@ -1,6 +1,6 @@
 # telescope-messages.nvim
 
-Telescope picker for `:messages`, similar to `help_tags`.
+[telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) picker for `:messages`, similar to `:Telescope help_tags`.
 
 ## setup
 
