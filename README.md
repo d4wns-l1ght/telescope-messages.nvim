@@ -2,7 +2,7 @@
 
 [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) picker for `:messages`, similar to `:Telescope help_tags`.
 
-## setup
+## Setup
 
 Using [lazy](https://github.com/folke/lazy.nvim):
 
@@ -23,3 +23,7 @@ return {
 ## Usage
 
 `:Telescope messages` or `require("telescope").extensions.messages.messages()`
+
+## Similar plugins
+
+If you just want to get `:messages` (or the output of any other command) into a buffer, you can check out [bufferize.vim](https://github.com/AndrewRadev/bufferize.vim)
